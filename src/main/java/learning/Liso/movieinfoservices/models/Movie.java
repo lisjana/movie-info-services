@@ -10,6 +10,9 @@ public class Movie {
         this.name = name;
     }
 
+    public Movie() {
+    }
+
     public String getMovieId() {
         return movieId;
     }
